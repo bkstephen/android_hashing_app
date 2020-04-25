@@ -1,0 +1,2 @@
+rootProject.name='Hasher'
+include ':app'
